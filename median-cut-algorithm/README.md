@@ -4,7 +4,7 @@ Compression using various algorithms and Comparision between them :)
 </p>
 <hr/>
 <p>
-  To run the code, enter "<b>python main.py</b>" <br>
+  To run the median cut algorithm, enter "<b>python main.py</b>" <br>
   <br>
   <b>NOTE</b>: Make changes only to main.py <br>
   <ul>
