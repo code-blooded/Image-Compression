@@ -15,4 +15,18 @@ Compression using various algorithms and Comparision between them :)
 <li> Output files (.csv) contain noise/error values in each color(r,g,b) for the output image <br>
 <li> Lookup table is [start,(end-1)] range to be replaced with value <br>
   </ul>
+  <hr/>
+  <b> Sample compression using Median Cut Algorithm </b>
+<table>
+<tr>
+  <td><img src="code_blooded.bmp" alt="uncompressed img"/><p> <i>Uncompressed Image</i></p></td>
+<td><img src="code_blooded16.bmp" alt="compressed img"/><p> <i>Compressed Image(depth=4)</i></p></td>
+</tr>
+<tr>
+  <td><img src="code_blooded.bmp" alt="uncompressed img"/><p> <i>Uncompressed Image</i></p></td>
+<td><img src="code_blooded32.bmp" alt="compressed img"/><p> <i>Compressed Image(depth=5)</i></p></td>
+</tr>
+</table>
+  
+  <h6> Note: The compression cannot be seen directly as they are ultimately saved as bmp, but can be seen in the lookup table as only few colours are used. </h6>
 </p>
