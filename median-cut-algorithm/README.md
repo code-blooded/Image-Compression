@@ -16,7 +16,7 @@ Compression using various algorithms and Comparision between them :)
 <li> Lookup table is [start,(end-1)] range to be replaced with value <br>
   </ul>
   <hr/>
-  <b> Sample compression using Median Cut Algorithm </b>
+ <p> <b> Sample compression using Median Cut Algorithm </b> </p>
 <table>
 <tr>
   <td><img src="code_blooded.bmp" alt="uncompressed img"/><p> <i>Uncompressed Image</i></p></td>
